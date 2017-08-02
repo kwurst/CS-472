@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.6, Revised 2 August 2017*
+*Version 2017-Fall-0.7, Revised 2 August 2017*
 ### *CS-472 01 --- Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -22,8 +22,7 @@ Thursdays 2:30-5:00pm<br>
 ST 107
 
 ## It's in the Syllabus
-<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-[http://www.phdcomics.com/comics.php?f=1583](http://www.phdcomics.com/comics.php?f=1583)
+<span title="http://www.phdcomics.com/comics.php?f=1583"><a href=http://www.phdcomics.com/comics.php?f=1583><img src=http://www.phdcomics.com/comics/archive/phd051013s.gif alt="Cartoon about looking in the syllabus first before asking questions."></a></span>
 
 **If you don't find the answer to your question in the syllabus, then please ask me.**
 
@@ -303,7 +302,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br>[http://www.phdcomics.com/comics.php?f=1795](http://www.phdcomics.com/comics.php?f=1795)
+<span title="http://www.phdcomics.com/comics.php?f=1795"><a href=http://www.phdcomics.com/comics.php?f=1795><img src=http://www.phdcomics.com/comics/archive/phd042215s.gif alt="Cartoon with bad examples of how to send email to your instructor."></a></span>
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
