@@ -23,7 +23,7 @@ ST 107
 
 ## It's in the Syllabus
 <img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
+[http://www.phdcomics.com/comics.php?f=1583](http://www.phdcomics.com/comics.php?f=1583)
 
 **If you don't find the answer to your question in the syllabus, then please ask me.**
 
@@ -303,7 +303,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br><a href=http://www.phdcomics.com/comics.php?f=1795>http://www.phdcomics.com/comics.php?f=1795</a>
+<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br>[http://www.phdcomics.com/comics.php?f=1795](http://www.phdcomics.com/comics.php?f=1795)
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
@@ -389,6 +389,7 @@ Week | Date | Class Time
 Final Exams | ***Tuesday***<br> 19 December 2017 | **Final Project Presentations** -  11:30am-2:30pm 
 
 ##Copyright and License
+
 ####&copy; 2017 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
