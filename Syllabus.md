@@ -293,7 +293,7 @@ If you are struggling with the material or a project please see me as soon as po
 
 By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
 
-I am here to help you understand the material and be successful in the course.
+**Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
 ## Contacting Me
 You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/)) or you may make an appointment for a mutually convenient time.
