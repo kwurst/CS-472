@@ -388,6 +388,7 @@ Week | Date | Class Time
 14 | 7 December 2017 | Final Project Work
 Final Exams | ***Tuesday***<br> 19 December 2017 | **Final Project Presentations** -  11:30am-2:30pm 
 
+
 ##Copyright and License
 
 ####&copy; 2017 Karl R. Wurst, Worcester State University
