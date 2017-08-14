@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.7, Revised 2 August 2017*
+*Version 2017-Fall-0.8, Revised 14 August 2017*
 ### *CS-472 01 --- Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -154,10 +154,10 @@ Assignment | Earn A Grade | Earn B Grade | Earn C Grade | Earn D Grade
 Lab Attendance: Labs 1-6 | All | All | All | All
 Lab Attendance: Weeks 7-8 | All | All | All | All
 Lab Attendance: Weeks 9-11, 13, 14<br>(Week 12 - No Class - Thanksgiving) | 5 (out of 5) | 4 (out of 5) | 4 (out of 5) | 3 (out of 5)
-Attend Dr. Steven Oliver Lecture on *Ethology*<br>(In class. Date TBA) | &#10004; | &#10004; | &#10004; |
+Talk by Dr. Steven Oliver on *Ethology*<br>(In class - 12 October 2017) | &#10004; | &#10004; | &#10004; |
 *Vehicles* Readings Summaries:<br>Introduction, Vehicles 1, 2, and 3 | All | All | All | All
 *Vehicles* Readings Summaries:<br>Vehicles 4-14 | 10 (out of 11) | 8 (out of 11) | 6 (out of 11) | 4 (out of 11)
-Readings Summaries:<br>Miller [1993], Brooks [1986], Hogg, *et. al.* [1991] | All | All | All | All
+Readings Summaries:<br>Miller [1993], Brooks [1986] | All | All | All | All
 Design Notebook Entries: Labs 1-6 | All | All | All | All
 Design Notebook Entry: Competition Project | &#10004; | &#10004; | &#10004; | &#10004;
 Design Notebook Entries:<br>Weeks 9-11, 13, 14 | 4 (out of 5) | 3 (out of 5) | 2 (out of 5) | 1 (out of 5)
@@ -183,7 +183,7 @@ A-Grade Paper:<br>- *Reusable Universes* Exhibit: How Would You Improve It? <br>
 
 ## Dr. Steven Oliver Lecture on *Ethology*
 
-Many concepts in behavior-based robotics come from, or are similar to, concepts from *[ethology](https://en.wikipedia.org/wiki/Ethology)* - the science of animal behavior and evolutionary adaptation. Dr. Steven Oliver, from the WSU Biology Department will give us a presentation on ethology. This lecture will happen during class time (date TBA).
+Many concepts in behavior-based robotics come from, or are similar to, concepts from *[ethology](https://en.wikipedia.org/wiki/Ethology)* - the science of animal behavior and evolutionary adaptation. Dr. Steven Oliver, from the WSU Biology Department will give us a presentation on ethology. This lecture will happen during class time on 12 October 2017..
 
 * Anyone working to earn a grade of C or higher must attend this lecture.
 
@@ -380,8 +380,8 @@ Week | Date | Class Time
 3 | 21 September 2017 | Lab 3
 4 | 28 September 2017 | Lab 4
 5 | 5 October 2017 | Lab 5
-6 | 12 October 2017 | Lab 67 | 19 October 2017 | Competition Project
-8 | 26 October 2017 | Competition Project
+6 | 12 October 2017 | Talk by Dr. Steven Oliver/<br>Lab 67 | 19 October 2017 | Competition Project Work
+8 | 26 October 2017 | Competition Project Work/<br>Competition
 9 | 2 November 2017 | Final Project Work
 10 | 9 November 2017 | Final Project Work
 11 | 16 November 2017 | Final Project Work
