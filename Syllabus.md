@@ -317,8 +317,8 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Expect to spend at least 9 hours of work per week on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
-## Student Accessibility Services
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Student Accessibility Services Office (SAS). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The SAS is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (sas@worcester.edu).  
+## Accessibility Statement
+Worcester State University is committed to providing reasonable academic accommodations for all students with disabilities.  If you have a disability and are concerned about the format or requirements of this course, please meet with me to discuss ways to ensure full participation.  Students must be registered with Student Accessibility Services in order to receive academic accommodations.  Student Accessibility Services is located in the Administration Building, Room 131, and can be reached by phone (508/929-8733 or email (sas@worcester.edu).  Please notify me if you need this syllabus in an alternative format.
 
 ## Tutoring Services/Academic Success Center
 Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
