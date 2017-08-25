@@ -1,5 +1,5 @@
 *Version 2017-Fall-0.2, Revised 25 August 2017*
-### *CS-472 01 --- Fall 2017*
+### *CS-472 01 &mdash; Fall 2017*
 
 # Lab 1
 
