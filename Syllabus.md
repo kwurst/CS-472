@@ -1,5 +1,5 @@
-*Version 2017-Fall-0.8, Revised 14 August 2017*
-### *CS-472 01 --- Fall 2017*
+*Version 2017-Fall-0.9, Revised 25 August 2017*
+### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
 <font color=red size=4>This is a draft version. It is subject to change until the first day of class on 7 September 2017.</font>
@@ -375,7 +375,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 *The following course schedule is subject to change.*
 
 Week | Date | Class Time
-:-: | :-: | :-:1 | 7 September 2017 | Lab 1
+:-: | :-: | :-:1 | 7 September 2017 | Lab 1 - *KISS*, CBC, Create
 2 | 14 September 2017 | Lab 2
 3 | 21 September 2017 | Lab 3
 4 | 28 September 2017 | Lab 4
