@@ -113,7 +113,7 @@ This course addresses the following outcomes of the Computer Science Major (see 
 
 Upon successful completion of the Major in Computer Science, students will be able to:
 	
-1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Emphasis
+1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Emphasis)
 2.	Communicate effectively both in written and oral form. (Emphasis)
 3.	Identify professional and ethical considerations, and apply ethical reasoning to technological solutions to problems. (Emphasis)
 4.	Demonstrate an understanding of and appreciation for the importance of negotiation, effective work habits, leadership, and good communication with teammates and stakeholders. (Emphasis)
