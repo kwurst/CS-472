@@ -1,23 +1,23 @@
-*Version 2017-Fall-0.2, Revised 25 August 2017*
+*Version 2017-Fall-1.0, Revised 26 August 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 # Lab 1
 
 ## Objective
 
-The objective of today’s lab is to form your group and begin to familiarize yourself with *KISS*, the CBC and the Create.
+The objective of today’s lab is to form your group and begin to familiarize yourself with the *KISS* software environment, the CBC controller, and the Create robot base.
 
 ## Don’t Forget to Make Entries in Your Engineering Notebook!
 I have included prompt questions to give you ideas for what you should write about, but you can write about anything else you think is important.
 
 ## Team Selection
 
-Select two partners. (If the size of the class is not an even multiple of 3, the instructor will give additional instructions.)
+Form a team of three. (If the size of the class is not an even multiple of 3, the instructor will give additional instructions.)
 
-* You will be working with these people all semester.
+* You will be working with these people through the end of October (at least).
 * Make sure that at least one team member feels comfortable in the C programming language.
 * Exchange contact information - at least email addresses. You can also create your own team channel on Slack.
-* Let the instructor know who is in your team. You will be assigned a team number, robot kit and storage area.
+* Let the instructor know who is in your team. You will be assigned a team number, robot kit, and storage area.
 
 ## Software Installation
 
@@ -31,14 +31,17 @@ Try running the following program in the simulator in *KISS*.
 
 2. Choose *New File*
 
-3. In the *Templates* window, chose *CBC 2*, and *C*
+3. In the *Templates* window, chose *CBC 2*, and *C* 
+    * The *CBC 2* target represents the CBC robot controller. Programs written for the simulator will also work on the CBC harware.  
+![CBC2](CBC.png)
 
 4. In the Port Selection window, choose Cancel
 
 5. Delete the lines for the “Hello World” program and enter the following program:
    
     ```c
-    int main() {	    kissSimPause();        create_connect();        create_drive_straight(150); // speed = 150 mm/s        sleep(10); // 10 seconds        create_stop();        create_disconnect();        kissSimPause();    }
+    int main() {	    kissSimPause(); // wait for space bar        create_connect(); // establish communication between CBC and Create        create_drive_straight(150); // speed = 150 mm/s        sleep(10); // 10 seconds        create_stop(); // stops motors        create_disconnect(); // shuts off motors and ends communication        kissSimPause();
+        return 0;    }
     ```
     
 6. Click the Compile button to check for syntax errors.
@@ -47,18 +50,21 @@ Try running the following program in the simulator in *KISS*.
 
 8. Hit the Space Bar to clear the instructions screen.
 
-9. Use the Right Arrow key, and click to select the *Blank World*.
+9. Use the Right Arrow key, and click to select the *Blank World*. ![World.png](World.png)
 
-10. Select the *DB2* robot.
+10. Select the *DB2* robot. ![DB2](DB2.png)
+    * The DB2 robot represents the CBC on a Create base. ![Create+CBC](Create+CBC.png) 
 
 11. Click to place the robot in the middle of the board.
 
 12. Hit the Space Bar to clear the instructions screen.
 
 13. Hit the Space Bar to unpause the simulator. (The pink background shows that the simulator is paused.)
-> *Note: As the robot approaches the wall (white line) watch the Bumper sensors just below the board display. The robot will not stop because it hits the wall, but you can see that the left and right bumpers did detect that it hit something. The robot stopped moving because the 10 seconds was up.*
+    * Note: As the robot approaches the wall (white line) watch the Bumper sensors just below the board display. The robot will not stop because it hits the wall, but you can see that the left and right bumpers did detect that it hit something. The robot stopped moving because the 10 seconds was up. ![bumpers](bumpers.png)
 
 14.  Hit the Space Bar again to unpause the simulator.
+
+15. Hit the Space Bar again to close the simulator window.
 
 ### Engineering Notebook 
 Describe the process of getting the simulator running and trying out your first program. Did you have any problems? How did you fix them?
@@ -67,9 +73,9 @@ Describe the process of getting the simulator running and trying out your first 
 
 Now you can run your program on the Create robot.
 
-1.  Get your Create, CBC, USB cable, and Create-CBC cable.
+1.  Get your Create, CBC, USB cable, and Create-CBC cable. ![Create-CBC Cable](cable.png)
 
-2.  Connect the Create and CBC. The red wire on the CBC end goes toward the USB ports.
+2.  Connect the Create and CBC. The red wire on the CBC end goes toward the USB ports. There is a red dot above that pin. ![RedToRed](RedToRed.png)
 
 3.  Turn on the Create and the CBC.
 
@@ -84,12 +90,13 @@ Now you can run your program on the Create robot.
 8.  Click the *Download* button.
 
 9.  When the download finishes compiling (watch the CBC screen), disconnect the USB cable from the CBC.
+    * When you download a program to the CBC it is automatically compiled and made ready to run    * Your program name appears in the Run button    * Pressing Run causes the specified program to run    * Your program code is retained in the code folder that appears on the initial File Manager screen accessed via the Programs tab on the initial screen
 
 10. Put the Create on the floor.
+    * Make sure the power is on.
 
 11. Press the *Run* button on the CBC screen to run the program.
-
-> *Note: The CBC will ignore all simulator commands.*
+    * Note: The CBC will ignore all simulator commands.
 
 ### Engineering Notebook
 Describe the process of connecting the robot and controller and running your first program on the robot. Did you have any problems? How did you fix them?
@@ -112,9 +119,11 @@ functions:
 ```c
 get_create_distance(float lag) 
 // A function to return the distance traveled in mm since the Create was
-// turned on, or the distance was set. Data has been gathered within *lag*
-// seconds. Do not set lag to a value smaller than 5/speed where speed is
-// the Create’s speed in mm/sec.
+// turned on, or the distance was set. 
+// The parameter lag specifies how long to wait between sensor updates 
+// in seconds. 
+// A lag value of 0.1 is reasonable, except a low motor speeds which will
+// produce poor accuracy.
 ```
     
 ```c
@@ -124,7 +133,8 @@ set_create_distance(int dist)
 
 ```c
 printf()
-//The standard ANSI C printf, will print in the simulator or on the LCD screen or the CBC
+// The standard ANSI C printf, will print in the simulator or on the 
+// LCD screen or the CBC
 ```
 
 You may want to try it in the simulator before you try it on your robot.
@@ -156,17 +166,20 @@ will need to use the following new functions:
 
 ```c
 create_drive_straight(int speed)
-// Sets both motors to run at speed, positive is forward, negative is backward
+// Sets both motors to run at speed (in mm/sec).
+// Positive is forward, negative is backward
 ```
 
 ```c
 get_create_lbump(float lag)
-// Indicates whether the left bumper has been hit, 0 is not hit, 1 is hit
+// Indicates whether the left bumper has been hit.
+// 0 is not hit, 1 is hit
 ```
 
 ```c
 get_create_rbump(float lag)
-// Indicates whether the right bumper has been hit, 0 is not hit, 1 is hit
+// Indicates whether the right bumper has been hit.
+// 0 is not hit, 1 is hit
 ```
 
 You may want to try it in the simulator before you try it on your robot.
