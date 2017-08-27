@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.9, Revised 25 August 2017*
+*Version 2017-Fall-0.10, Revised 27 August 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -158,9 +158,9 @@ Talk by Dr. Steven Oliver on *Ethology*<br>(In class - 12 October 2017) | &#1000
 *Vehicles* Readings Summaries:<br>Introduction, Vehicles 1, 2, and 3 | All | All | All | All
 *Vehicles* Readings Summaries:<br>Vehicles 4-14 | 10 (out of 11) | 8 (out of 11) | 6 (out of 11) | 4 (out of 11)
 Readings Summaries:<br>Miller [1993], Brooks [1986] | All | All | All | All
-Design Notebook Entries: Labs 1-6 | All | All | All | All
-Design Notebook Entry: Competition Project | &#10004; | &#10004; | &#10004; | &#10004;
-Design Notebook Entries:<br>Weeks 9-11, 13, 14 | 4 (out of 5) | 3 (out of 5) | 2 (out of 5) | 1 (out of 5)
+Engineering Design Notebook Entries: Labs 1-6 | All | All | All | All
+Engineering Design Notebook Entry: Competition Project | &#10004; | &#10004; | &#10004; | &#10004;
+Engineering Design Notebook Entries:<br>Weeks 9-11, 13, 14 | 4 (out of 5) | 3 (out of 5) | 2 (out of 5) | 1 (out of 5)
 Final Project Proposal | &#10004; | &#10004; | &#10004; | &#10004;
 Final Project Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 *Reusable Universes* Exhibit:<br>Visit Description and Impressions | &#10004; | &#10004; | &#10004; |
@@ -198,13 +198,13 @@ You will be reading chapters from the *Vehicles* by Braitenberg, as well as 3 jo
 
 *A more complete specification for "Acceptable" (passing) summaries will be given during the semester.*
 
-## Design Notebooks
+## Engineering Design Notebooks
 
 * Everyone working to earn a passing grade must complete notebook entries for the first 8 weeks of the semester. 
 * Everyone working to earn a passing grade must complete a differing number of notebook entries for weeks 9-14 of the semester. See the table under *Course Grade Determination*.
 * All notebook entries must be submitted as PDF files, and will be submitted through Blackboard.
 
-*A more complete specification for "Acceptable" (passing) design notebook entries will be given during the semester.*
+*A more complete specification for "Acceptable" (passing) engineering design notebook entries will be given during the semester.*
 
 ## Final Project
 For the last portion of the semester, each group will pick a project to complete and demonstrate to the class. The project must be chosen in consultation with the instructor and approved by the instructor. The final project demonstrations and presentations will be given during the scheduled Final Exam period on 19 December 2011 12:30pm-3:30pm
@@ -272,9 +272,9 @@ Because your first attempt at producing acceptable work for a new category of as
 
 * *Vehicles* Reading Summary
 * Article Reading Summary
-* Design Notebook Entry, Labs 1-6
-* Design Notebook Entry, Competition Project
-* Design Notebook Entry, Weeks 9-11, 13, 14
+* Engineering Design Notebook Entry, Labs 1-6
+* Engineering Design Notebook Entry, Competition Project
+* Engineering Design Notebook Entry, Weeks 9-11, 13, 14
 * Robotics Technology in Everyday Life
 
 ## Tokens
@@ -374,14 +374,14 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-Week | Date | Class Time
-:-: | :-: | :-:1 | 7 September 2017 | Lab 1 - *KISS*, CBC, Create
-2 | 14 September 2017 | Lab 2
-3 | 21 September 2017 | Lab 3
-4 | 28 September 2017 | Lab 4
-5 | 5 October 2017 | Lab 5
-6 | 12 October 2017 | Talk by Dr. Steven Oliver/<br>Lab 67 | 19 October 2017 | Competition Project Work
-8 | 26 October 2017 | Competition Project Work/<br>Competition
+Week | Date | Class Time | Assignment
+:-: | :-: | :-: | :-:1 | 7 September 2017 | Lab 1 - *KISS*, CBC, Create | Read *Vehicles* - Introduction, Chapters 1, 2, 3 and write summaries<br>Write Lab 1 Notebook Entry
+2 | 14 September 2017 | Lab 2 - Light sensors, Braitenberg Vehicles | Read Miller [1993] and write summary<br>Write Lab 2 Notebook Entry
+3 | 21 September 2017 | Lab 3 - Distance sensors, Multiprocessing | Read Brooks [1986] and write summary<br>Write Lab 3 Notebook Entry
+4 | 28 September 2017 | Lab 4 - Servo motors, Subsumption Architecture | Write Lab 4 Notebook Entry
+5 | 5 October 2017 | Lab 5 - Color vision processing | Write Lab 5 Notebook Entry
+6 | 12 October 2017 | Talk by Dr. Steven Oliver<br>Lab 6 - Odds and Ends<br>Introduction of Competition Problem | Write Lab 6 Notebook Entry7 | 19 October 2017 | Competition Problem Work
+8 | 26 October 2017 | Competition Problem Work<br>Competition
 9 | 2 November 2017 | Final Project Work
 10 | 9 November 2017 | Final Project Work
 11 | 16 November 2017 | Final Project Work
