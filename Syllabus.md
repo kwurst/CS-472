@@ -127,7 +127,7 @@ Upon successful completion of the Major in Computer Science, students will be ab
 
 I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
 
-As an example, imagine a course with two major learning outcomes: X and Y. It is widely considered that a course grade of C indicates that a student is minimally competent in achieving the course outcomes. However, if the student was to receive a grade of 100 for outcome X, and a grade of 40 for outcome Y, the student would still have a 70 (C-) average for the course. Yet the student is clearly not competent in outcome Y.
+As an example, imagine a course with two major learning outcomes: X and Y. It is widely considered that a course grade of C indicates that a student is minimally competent in achieving the course outcomes. However, if the student were to receive a grade of 100 for outcome X, and a grade of 40 for outcome Y, the student would still have a 70 (C-) average for the course. Yet the student is clearly not competent in outcome Y.
 
 Therefore the grading in this course will be handled in a different manner:
 
@@ -138,7 +138,7 @@ Therefore the grading in this course will be handled in a different manner:
 ### Assignment Grading
 
 * All assignments in this course will be graded exclusively on an ***Acceptable***/***Not Acceptable*** basis. 
-* **For each assignment, you will be given a detailed specification explaining is required for the work to be considered *Acceptable* (passing).** 
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be considered *Acceptable* (passing).** 
 * Failing to meet *any part* of the specification will result in the work being *Not Acceptable* (failing). 
 * There will be no partial credit given. 
 * If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
