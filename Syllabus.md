@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.10, Revised 27 August 2017*
+*Version 2017-Fall-0.11, Revised 31 August 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -193,8 +193,10 @@ You will be reading chapters from the *Vehicles* by Braitenberg, as well as 3 jo
 
 * Everyone working to earn a passing grade must complete summaries of the Introduction, and Chapters 1 through 3 of *Vehicles*.
 * Differing numbers of summaries for *Vehicles* chapters 4 through 14 are required for higher passing grades. See the table under *Course Grade Determination*.
+    * I will only accept one summary for *Vehicles* chapters 4-14 per week. **You cannot wait until the end of the semester and then turn in all of your summaries.** 
 * Everyone working to earn a passing grade must complete summaries of all three journal articles.
 * Summaries are expected to be short, concise and in your own words. Simply typing in selected sentences from the reading is not a summary, and will be considered acceptable (passing).
+
 
 *A more complete specification for "Acceptable" (passing) summaries will be given during the semester.*
 
@@ -202,6 +204,7 @@ You will be reading chapters from the *Vehicles* by Braitenberg, as well as 3 jo
 
 * Everyone working to earn a passing grade must complete notebook entries for the first 8 weeks of the semester. 
 * Everyone working to earn a passing grade must complete a differing number of notebook entries for weeks 9-14 of the semester. See the table under *Course Grade Determination*.
+    * I will only accept one notebook entry for weeks 9-14 per week. **You cannot wait until the end of the semester and then turn in all of your notebook entries.** 
 * All notebook entries must be submitted as PDF files, and will be submitted through Blackboard.
 
 *A more complete specification for "Acceptable" (passing) engineering design notebook entries will be given during the semester.*
@@ -241,6 +244,7 @@ As you go about your everyday life, look as machines that you see and interact w
 For each "robot" you encounter, write an analysis of its behavior, hardware and software.
 
 * Differing numbers of analyses are required for different passing grades. See the table under *Course Grade Determination*.
+    * I will only accept one Robotics Technology in Everyday Life analysis per week. **You cannot wait until the end of the semester and then turn in all of your analyses.** 
 
 *A more complete specification for "Acceptable" (passing) analyses will be given during the semester.*
 
@@ -282,11 +286,13 @@ Each student will be credited with 2 tokens. Each token can be used to:
 
 * replace a single missed class session
 * turn in an assignment late by 24 hours
+* turn in a second *Vehicles* chapters 4-14 summary, notebook entry for weeks 9-14, or Robotics in Everyday Life analysis in an a single week
 * revise and resubmit an assignment that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date.
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
 * Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
+* Unused tokens have no other value at the end of the semester e.g. they cannot be used for extra credit points.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
