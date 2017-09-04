@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.13, Revised 4 September 2017*
+*Version 2017-Fall-0.14, Revised 4 September 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -147,16 +147,18 @@ Therefore the grading in this course will be handled in a different manner:
 
 ### Course Grade Determination
 
-Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner. See the table below:
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner.
 
-Assignment | Earn A Grade | Earn B Grade | Earn C Grade | Earn D Grade 
+#### Base Grade
+
+Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn Base Grade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 Lab Attendance: Labs 1-6 | All | All | All | All
 Lab Attendance: Weeks 7-8 | All | All | All | All
 Lab Attendance: Weeks 9-11, 13, 14<br>(Week 12 - No Class - Thanksgiving) | 5 (out of 5) | 4 (out of 5) | 4 (out of 5) | 3 (out of 5)
 Talk by Dr. Steven Oliver on *Ethology*<br>(In class - 12 October 2017) | &#10004; | &#10004; | &#10004; |
 *Vehicles* Readings Summaries:<br>Introduction, Vehicles 1, 2, and 3 | All | All | All | All
-*Vehicles* Readings Summaries: Vehicles 4-14<br>(out of 11 possible) | 10: A<br>9: A- | 9: B+<br>8: B<br>7: B- | 7: C+<br>6: C<br>5:C- | 5: D+<br>4: D<br>3:D-
+*Vehicles* Readings Summaries: Vehicles 4-14 | 10 (out of 11)| 8 (out of 11) | 6 (out of 11) | 4 (out of 11)
 Readings Summaries:<br>Miller [1993], Brooks [1986] | All | All | All | All
 Engineering Design Notebook Entries: Labs 1-6 | All | All | All | All
 Engineering Design Notebook Entry: Competition Project | &#10004; | &#10004; | &#10004; | &#10004;
@@ -168,9 +170,22 @@ Final Project Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 Robotics Technology in Everyday Life | 5 | 4 | 3 | 2
 A-Grade Paper:<br>- *Reusable Universes* Exhibit: How Would You Improve It? <br> *OR* <br> - Dr. Oliver Lecture: Relate to *Vehicles* and Brooks [1986]| &#10004;
 
-
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to turn in 4 acceptable "Robotics Technology in Everyday Life" papers, you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
+
+#### Plus or Minus Grade Modifiers
+
+* You will have a ***minus*** modifier applied to your base grade if you complete one fewer *Vehicles* 4-14 Readings Summaries than required for a base grade. E.g. If you complete all requirements for a base grade of B, except you complete only 9 *Vehicles* 4-14 Readings Summaries, you will instead earn a course grade of B-.
+* You will have a ***plus*** modifier applied to your base grade if you have a total of 3 (or more) of the following at the end of the semester:
+	* Unused tokens
+	* Additional *Vehicles* 4-14 Readings Summaries (beyond the requirements for your base grade)
+	* Additional Weeks 9-11, 13-14 Design Notebook Entries (beyond the requirements for your base grade)
+	* Additional *Robotics Technology in Everyday Life* analyses (beyond the requirements for your base grade)
+
+*Note:*
+ 
+* The limits for the number of assignments to be submitted in a single week still apply.
+* WSU has no A+ grade.
 
 ## Lab Attendance
 
@@ -287,12 +302,11 @@ Each student will be credited with 5 tokens. Each token can be used to:
 * replace a single missed class session (up to a maximum of 2 missed class sessions)
 * turn in an assignment late by 24 hours
 * turn in a second *Vehicles* chapters 4-14 summary, notebook entry for weeks 9-14, or Robotics in Everyday Life analysis in an a single week
-* revise and resubmit an assignment that was judged "not acceptable" (up to a maximum of 3). Any work to be revised and resubmitted must have been submitted by the original due date. 
+* revise and resubmit an assignment (up to a maximum of 3) that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date. 
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
 * Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
-* Unused tokens have no other value at the end of the semester e.g. they cannot be used for extra credit points.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
