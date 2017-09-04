@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.12, Revised 3 September 2017*
+*Version 2017-Fall-0.13, Revised 4 September 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -282,12 +282,12 @@ Because your first attempt at producing acceptable work for a new category of as
 * Robotics Technology in Everyday Life
 
 ## Tokens
-Each student will be credited with 2 tokens. Each token can be used to:
+Each student will be credited with 5 tokens. Each token can be used to:
 
-* replace a single missed class session
+* replace a single missed class session (up to a maximum of 2 missed class sessions)
 * turn in an assignment late by 24 hours
 * turn in a second *Vehicles* chapters 4-14 summary, notebook entry for weeks 9-14, or Robotics in Everyday Life analysis in an a single week
-* revise and resubmit an assignment that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date.
+* revise and resubmit an assignment that was judged "not acceptable" (up to a maximum of 3). Any work to be revised and resubmitted must have been submitted by the original due date. 
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
