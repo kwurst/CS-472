@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.14, Revised 4 September 2017*
+*Version 2017-Fall-0.15, Revised 6 September 2017*
 ### *CS-472 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -297,7 +297,9 @@ Because your first attempt at producing acceptable work for a new category of as
 * Robotics Technology in Everyday Life
 
 ## Tokens
-Each student will be credited with 5 tokens. Each token can be used to:
+Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+
+Each token can be used to:
 
 * replace a single missed class session (up to a maximum of 2 missed class sessions)
 * turn in an assignment late by 24 hours
